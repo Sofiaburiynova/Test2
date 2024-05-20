@@ -14,8 +14,8 @@ public class Mbenchmark {
     public static void main(String[] args) {
         Options option = new OptionsBuilder()
                 .include(org.example.Main.class.getSimpleName())
-                .warmupTime(TimeValue.seconds(2))
-                .measurementTime(TimeValue.seconds(2))
+                .warmupTime(TimeValue.seconds(3))
+                .measurementTime(TimeValue.seconds(3))
                 .warmupIterations(3)
                 .measurementIterations(3)
                 .forks(1)
