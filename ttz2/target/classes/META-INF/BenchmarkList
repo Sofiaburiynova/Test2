@@ -1,0 +1,8 @@
+JMH S 21 Benchmarks.Mbenchmark S 54 Benchmarks.jmh_generated.Mbenchmark_test_max10_jmhTest S 10 test_max10 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 Benchmarks.Mbenchmark S 55 Benchmarks.jmh_generated.Mbenchmark_test_max100_jmhTest S 11 test_max100 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 Benchmarks.Mbenchmark S 54 Benchmarks.jmh_generated.Mbenchmark_test_min10_jmhTest S 10 test_min10 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 Benchmarks.Mbenchmark S 55 Benchmarks.jmh_generated.Mbenchmark_test_min100_jmhTest S 11 test_min100 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 Benchmarks.Mbenchmark S 55 Benchmarks.jmh_generated.Mbenchmark_test_mult10_jmhTest S 11 test_mult10 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 Benchmarks.Mbenchmark S 56 Benchmarks.jmh_generated.Mbenchmark_test_mult100_jmhTest S 12 test_mult100 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 Benchmarks.Mbenchmark S 54 Benchmarks.jmh_generated.Mbenchmark_test_sum10_jmhTest S 10 test_sum10 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 Benchmarks.Mbenchmark S 55 Benchmarks.jmh_generated.Mbenchmark_test_sum100_jmhTest S 11 test_sum100 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 

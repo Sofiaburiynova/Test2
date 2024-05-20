@@ -1,0 +1,13 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,Benchmarks/Mbenchmark.test_max10
+inline,Benchmarks/Mbenchmark.test_max100
+inline,Benchmarks/Mbenchmark.test_min10
+inline,Benchmarks/Mbenchmark.test_min100
+inline,Benchmarks/Mbenchmark.test_mult10
+inline,Benchmarks/Mbenchmark.test_mult100
+inline,Benchmarks/Mbenchmark.test_sum10
+inline,Benchmarks/Mbenchmark.test_sum100
